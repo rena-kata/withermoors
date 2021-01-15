@@ -81,4 +81,5 @@
  :macros {}
    :ui/show-brackets? false
    :feature/enable-journals? false
-   :default-home {:page "Contents"}}
+   :default-home {:page "Contents"}
+   :feature/enable-timetracking? false}
