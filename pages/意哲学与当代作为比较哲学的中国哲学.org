@@ -1,5 +1,6 @@
 #+TITLE: 意哲学与当代作为比较哲学的中国哲学
 
+***** #易学研究
 ***** 页码：4—15；Page 4–14
 ***** 作者：[[温海明]]
 ****** 温海明，山东省泰山学者，孔子研究院特聘专家，中国人民大学哲学院教授、博士生导师。
@@ -9,4 +10,3 @@
 This paper is a preliminary result of /Illuminating Intentionality through the Analects: An Interpretation and Philosophical Construction from Comparative Studies of Chinese and Western Philosophy/ [论语明意——《论语》的中西比较哲学诠释与建构], a /Guoxue/ project supported by 2019 Guizhou Provincial Philosophy and Social Sciences Program (Project No. 19GZGX20).
 ***** 译者：寇哲明
 ****** [[Benjamin M. Coles]] is lecturer of the School of Philosophy and Social Development at Huaqiao University.
-***
