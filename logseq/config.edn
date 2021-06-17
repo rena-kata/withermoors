@@ -84,4 +84,4 @@
    :default-home {:page "Contents"}
    :feature/enable-timetracking? false
    :date-formatter "yyyy年MM月dd日"
-   :preferred-workflow :now}
+   :preferred-workflow :todo}
