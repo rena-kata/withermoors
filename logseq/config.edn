@@ -83,4 +83,5 @@
    :feature/enable-journals? false
    :default-home {:page "Contents"}
    :feature/enable-timetracking? false
-   :date-formatter "yyyy年MM月dd日"}
+   :date-formatter "yyyy年MM月dd日"
+   :preferred-workflow :now}
